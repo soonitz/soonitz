@@ -9,15 +9,15 @@
 
 
 ### **SNS**
-> <a href="https://twitter.com/soonitz1" target="_blank"><img src="https://img.shields.io/badge/@soonitz1-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a> <a href="https://www.facebook.com/soonitz" target="_blank"><img src="https://img.shields.io/badge/soonitz-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/soonitz/" target="_blank"><img src="https://img.shields.io/badge/soonitz-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> <a href="https://www.instagram.com/soonitz/" target="_blank"><img src="https://img.shields.io/badge/soonitz-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+> <a href="https://twitter.com/soonitz1" target="_blank"><img src="https://img.shields.io/badge/@soonitz1-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"></a> <a href="https://www.facebook.com/soonitz" target="_blank"><img src="https://img.shields.io/badge/soonitz-1877F2?style=flat-square&logo=Facebook&logoColor=white"></a> <a href="https://www.linkedin.com/in/soonitz/" target="_blank"><img src="https://img.shields.io/badge/soonitz-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a> <a href="https://www.instagram.com/soonitz/" target="_blank"><img src="https://img.shields.io/badge/soonitz-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 > <br>**KAKAOTALK**<br>
-> <a href="https://open.kakao.com/o/sSWDrYgd" target="_blank"><img src="https://img.shields.io/badge/SoonitzOpenChat-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/></a>
+> <a href="https://open.kakao.com/o/sSWDrYgd" target="_blank"><img src="https://img.shields.io/badge/SoonitzOpenChat-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"></a>
 > <br>**BLOG**<br>
-> <a href="https://velog.io/@soonitz777" target="_blank"><img src="https://img.shields.io/badge/Soonitz777-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+> <a href="https://velog.io/@soonitz777" target="_blank"><img src="https://img.shields.io/badge/Soonitz777-20c997?style=flat-square&logo=Vimeo&logoColor=white"></a>
 
   
 ### **CONTACT**
 > **PORTFOLIO**<br>
-> <a href="https://soonitz.com" target="_blank"><img src="https://img.shields.io/badge/soonitz.com-EA4AAA?style=flat-square&logo=GitHubSponsors&logoColor=white"/></a><br>
+> <a href="https://soonitz.com" target="_blank"><img src="https://img.shields.io/badge/soonitz.com-EA4AAA?style=flat-square&logo=GitHubSponsors&logoColor=white"></a><br>
 > **E-MAIL**<br>
-> <a href="mailto:soonitz777@gmail.com" target="_blank"><img src="https://img.shields.io/badge/soonitz777@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
+> <a href="mailto:soonitz777@gmail.com" target="_blank"><img src="https://img.shields.io/badge/soonitz777@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a><br>
