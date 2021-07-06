@@ -13,7 +13,7 @@
 > <br>**KAKAOTALK**<br>
 > <a href="http://open.kakao.com/o/sSWDrYgd" target="_blank"><img src="https://img.shields.io/badge/SoonitzOpenChat-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/></a>
 > <br>**BLOG**<br>
-> <a href="http://velog.io/@soonitz777"target="_blank"><img src="https://img.shields.io/badge/Soonitz777-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+> <a href="http://velog.io/@soonitz777" target="_blank"><img src="https://img.shields.io/badge/Soonitz777-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
   
 ### **CONTACT**
