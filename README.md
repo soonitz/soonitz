@@ -1,5 +1,5 @@
-🧸 Hi ✨
-🖤 soonitz.com
+🧸 Hi ✨ <br>
+🖤 soonitz.com <br>
 📫 soonitz777@gmail.com
 
 <!--
