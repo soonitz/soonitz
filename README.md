@@ -1,4 +1,6 @@
-### Hi there 🥰
+🧸 Hi ✨
+🖤 soonitz.com
+📫 soonitz777@gmail.com
 
 <!--
 **soonitz/soonitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
