@@ -28,7 +28,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonitzlayout=compact&exclude_repo=productive-box,soonitz.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonitz&layout=compact&exclude_repo=productive-box,soonitz.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
