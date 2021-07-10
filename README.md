@@ -28,8 +28,8 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonitz&&show_icons=true&theme=dracula)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonitz&&show_icons=true&theme=dracula)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonitz&exclude_repo=productive-box,soonitz.github.io)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonitz&exclude_repo=productive-box,soonitz.github.io)](https://github.com/soonitz/github-readme-stats)
