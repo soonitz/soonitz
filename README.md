@@ -25,4 +25,6 @@
 > **ENGLISH**　*LR* Intermediate *S* Elementary<br>
 > **JAPANESE**　*LRS* Elementary
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonitz&&show_icons=true&theme=dracula)]
+
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonitz&&show_icons=true&theme=dracula)
