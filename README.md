@@ -27,8 +27,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonitz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonitz&show_icons=true&theme=buefy)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoonitz&count_bg=%23D0C0FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=COUNT&edge_flat=true)](https://hits.seeyoufarm.com)
