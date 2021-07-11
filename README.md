@@ -33,4 +33,4 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoonitz&count_bg=%23D0C0FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=COUNT&edge_flat=true)](https://hits.seeyoufarm.com)
 
-/github/followers/:user?label=Follow
+https://img.shields.io/github/followers/soonitz?style=social
