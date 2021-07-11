@@ -25,14 +25,13 @@
 > **ENGLISH**　*LR* Intermediate *S* Elementary<br>
 > **JAPANESE**　*LRS* Elementary
 
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonitz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonitz&show_icons=true&theme=buefy)
+
+<br>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=soonitz)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
