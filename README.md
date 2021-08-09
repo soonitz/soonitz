@@ -17,7 +17,7 @@
 
   
 ### **CONTACT · STUDY**
-> <a href="mailto:soonitz777@gmail.com" target="_blank"><img src="https://img.shields.io/badge/soonitz777@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="http://open.kakao.com/o/sSWDrYgd" target="_blank"><img src="https://img.shields.io/badge/SoonitzOpenChat-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/></a>
+> <a href="mailto:soonitz777@gmail.com" target="_blank"><img src="https://img.shields.io/badge/soonitz777@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="http://open.kakao.com/o/sSWDrYgd" target="_blank"><img src="https://img.shields.io/badge/OpenChat-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/></a>
 
 
 ### **LANGUAGE**
