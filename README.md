@@ -11,7 +11,7 @@
 ><br><img src="https://img.shields.io/badge/AdobeInDesign-FF3366?style=flat-square&logo=AdobeInDesign&logoColor=white"/> 
 <br>
 
-### **PORTFOLIO · BLOG · SNS**
+### **HOMEPAGE · BLOG · SNS**
 > <a href="http://soonitz.com" target="_blank"><img src="https://img.shields.io/badge/soonitz.com-EA4AAA?style=flat-square&logo=GitHubSponsors&logoColor=white"/></a> <a href="http://velog.io/@soonitz777" target="_blank"><img src="https://img.shields.io/badge/Soonitz777-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 > <br><a href="http://twitter.com/soonitz1" target="_blank"><img src="https://img.shields.io/badge/@soonitz1-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a> <a href="http://www.facebook.com/soonitz" target="_blank"><img src="https://img.shields.io/badge/soonitz-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a> <a href="http://www.linkedin.com/in/soonitz/" target="_blank"><img src="https://img.shields.io/badge/soonitz-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> <a href="http://www.instagram.com/soonitz/" target="_blank"><img src="https://img.shields.io/badge/soonitz-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
