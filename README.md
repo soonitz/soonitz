@@ -16,7 +16,7 @@
 > <br><a href="http://twitter.com/soonitz1" target="_blank"><img src="https://img.shields.io/badge/@soonitz1-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a> <a href="http://www.facebook.com/soonitz" target="_blank"><img src="https://img.shields.io/badge/soonitz-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a> <a href="http://www.linkedin.com/in/soonitz/" target="_blank"><img src="https://img.shields.io/badge/soonitz-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> <a href="http://www.instagram.com/soonitz/" target="_blank"><img src="https://img.shields.io/badge/soonitz-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
   
-### **CONTACT · STUDY**
+### **CONTACT · STUDY GROUP**
 > <a href="mailto:soonitz777@gmail.com" target="_blank"><img src="https://img.shields.io/badge/soonitz777@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="http://open.kakao.com/o/sSWDrYgd" target="_blank"><img src="https://img.shields.io/badge/OpenChat-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/></a>
 
 
