@@ -4,7 +4,7 @@
 ><br><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <!--<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>-->
 ><br><img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/> <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
 ><br>**INTERMEDIATE**
-><br><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+><br><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 ><br><img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/>
 ><br>**BASIC**<br>
 ><img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=Python&logoColor=white"/>
