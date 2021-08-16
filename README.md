@@ -7,7 +7,7 @@
 ><br><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 ><br><img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 ><br>**BASIC**<br>
-><img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+><img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FF3366?style=flat-square&logo=Python&logoColor=white"/> 
 ><br><img src="https://img.shields.io/badge/AdobeInDesign-FF3366?style=flat-square&logo=AdobeInDesign&logoColor=white"/> 
 <br>
 
