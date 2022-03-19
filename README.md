@@ -9,13 +9,8 @@
 ### **HOMEPAGE · BLOG · SNS · CONTACT**
 > <a href="http://soonitz.com" target="_blank"><img src="https://img.shields.io/badge/soonitz.com-EA4AAA?style=flat-square&logo=GitHubSponsors&logoColor=white"/></a> <a href="http://velog.io/@soonitz777" target="_blank"><img src="https://img.shields.io/badge/Soonitz777-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="http://twitter.com/soonitz1" target="_blank"><img src="https://img.shields.io/badge/@soonitz1-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a> <a href="http://www.facebook.com/soonitz" target="_blank"><img src="https://img.shields.io/badge/soonitz-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a> <a href="http://www.linkedin.com/in/soonitz/" target="_blank"><img src="https://img.shields.io/badge/soonitz-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> <a href="http://www.instagram.com/soonitz/" target="_blank"><img src="https://img.shields.io/badge/soonitz-8a3ab9?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:soonitz777@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-### **LANGUAGE**
-> **KOREAN**　*LRS* Native<br>
-> **ENGLISH**　*LR* Intermediate *S* Elementary<br>
-> **JAPANESE**　*LRS* Elementary
-
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonitz&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonitz&show_icons=true&theme=discord_old_blurple)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoonitz&count_bg=%23D0C0FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=COUNT&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B1ADB8&title_bg=%2373549E&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
