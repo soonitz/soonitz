@@ -12,4 +12,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonitz&show_icons=true&theme=discord_old_blurple)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B1ADB8&title_bg=%2373549E&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoonitz&count_bg=%23A09EA4&title_bg=%237E62B2&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
