@@ -14,3 +14,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonitz&show_icons=true&theme=discord_old_blurple)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoonitz&count_bg=%23A09EA4&title_bg=%237E62B2&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![wakatime](https://wakatime.com/badge/user/018ca7cc-6fb3-4dc9-b75b-73f14e7f0b79.svg)](https://wakatime.com/@018ca7cc-6fb3-4dc9-b75b-73f14e7f0b79)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonitz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
