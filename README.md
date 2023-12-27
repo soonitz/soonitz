@@ -16,6 +16,37 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoonitz&count_bg=%23A09EA4&title_bg=%237E62B2&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 112 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in HTML** 
+
+```text
+HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+PHP                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+SCSS                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/soonitz/soonitz/main/assets/bar_graph.png)
+
+
+ Last Updated on 27/12/2023 01:36:35 UTC
+<!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonitz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
