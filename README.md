@@ -18,8 +18,37 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonitz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-586.4%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
+**🐱 저의 GitHub 정보에요.** 
 
- Last Updated on 27/12/2023 01:45:30 UTC
+> 📦 GitHub의 ?만큼의 저장소를 사용하고 있어요. 
+ > 
+> 🏆 113 만큼의 Contributions을 2023년에 했어요
+ > 
+> 🚫 구직중이지 않아요.
+ > 
+> 📜 15개의 Public Repository를 만들었어요. 
+ > 
+> 🔑 0개의 Private Repository를 만들었어요. 
+ > 
+**저는 주로 HTML 언어를 사용해요.** 
+
+```text
+HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+PHP                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+SCSS                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+
+**타임라인**
+
+![Lines of Code chart](https://raw.githubusercontent.com/soonitz/soonitz/main/assets/bar_graph.png)
+
+
+ Last Updated on 27/12/2023 01:48:23 UTC
 <!--END_SECTION:waka-->
